@@ -19,7 +19,9 @@
 After following all these steps, your NextCloud calendar should synchronize. If not, check your username and password. Otherwise, repeat these steps.
 
 **NOTE: You will not be able to synchronize your calendar if you have TOTP (Time-based One Time Password) authentication enabled. Follow the steps below to get an app password that can be used with the Calendar client app:**
+
 1. Log into NextCloud. Click on your user icon, then click on "Settings".  
+
 2. Click on "Security", then locate a button labeled Generate app password. Next to this button, enter "Windows 10 Calendar app". Then, click the button and copy and paste the password. Use this password instead of your NextCloud password for Step 8.
 
 Special thanks to this Reddit user for their post:

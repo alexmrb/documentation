@@ -1,3 +1,7 @@
+======================================
+Synchronizing with Windows 10 Calendar
+======================================
+
 1. In your browser, navigate to the Nextcloud Calendar app. Under “Settings & import”, copy the “iOS/OSX CalDAV Address” into your clipboard.
 
 2. Launch the Windows 10 Calendar app. Then, click the Settings icon (gear icon) and select “Manage accounts”.
